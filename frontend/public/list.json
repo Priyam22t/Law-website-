@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"criminal law ",
+        "title":"In matters of criminal law, our firm is committed to defending the rights and liberties of our clients with unwavering dedication and skill. With a focus on justice and due process, we strive to navigate the complexities of the legal system to secure the best possible outcomes for those we represent",
+        "cateogory":"free",
+        "image":"https://thumbs.dreamstime.com/b/gavel-name-plate-engraving-criminal-law-63046488.jpg"
+    },
+    {
+        "id":2,
+        "name":"Civil Law ",
+        "cateogory":"free",
+        "title":"Choose us for your civil law needs and experience expert guidance tailored to your unique situation. With our dedicated team of legal professionals, we prioritize your objectives, ensuring thorough representation and effective solutions ",
+        "image":"https://media.istockphoto.com/id/155431938/photo/civil-law.jpg?s=612x612&w=0&k=20&c=AhztPK5XXOH1kMh11BwNCUmtAbPboy7u2gkG0Jb9MaA="
+    },
+    {
+        "id":3,
+        "name":"Family Law ",
+        "cateogory":"free",
+        "title":"For family law matters, trust in our compassionate approach and extensive experience. We prioritize your family's well-being, offering personalized legal support to navigate through even the most delicate situations with care and expertise.",
+        "image":"https://jayantbhatt.in/wp-content/uploads/2019/02/family-law-.jpg"
+    },
+    {
+        "id":4,
+        "name":"Business Law ",
+        "cateogory":"free",
+        "title":"In the realm of business law, our dedicated team stands ready to provide strategic guidance and reliable counsel. With a keen understanding of commercial complexities, we assist clients in achieving their objectives while safeguarding their interests with precision and integrity.",
+        "image":"https://media.istockphoto.com/id/1051720396/photo/business-law-and-gavel-in-a-court.jpg?s=612x612&w=0&k=20&c=SRt8dsN8tLZIuec_0fFSg4hZ0pkKvDZYMGFKKNlD05M="
+    },
+    {
+        "id":5,
+        "name":"Education law ",
+        "cateogory":"free",
+        "title":"Education law requires a delicate balance of legal expertise and compassion. At our firm, we champion the rights of students and educators, offering steadfast support and advocacy to ensure fair and equitable outcomes in educational matters.",
+        "image":"https://thumbs.dreamstime.com/b/gavel-name-plate-engraving-education-law-education-law-98774249.jpg"
+    },
+    {
+        "id":6,
+        "name":"Cyber law ",
+        "cateogory":"free",
+        "title":"In the realm of cyber law, our firm stands as a beacon of protection in the digital age. With a deep understanding of evolving technologies and legal frameworks, we offer proactive counsel and robust defense against cyber threats, safeguarding our clients' interests in the digital landscape.",
+        "image":"https://static.javatpoint.com/computer/images/what-is-cyber-law.jpg"
+    }
+]

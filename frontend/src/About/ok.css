@@ -1,0 +1,118 @@
+.about{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: 80px 170px;
+}
+.abouttitle{
+    position: relative;
+    
+
+}
+.abouttitle h1{
+    padding: 0px;
+    font-size: 80px;
+    font-weight: 600;
+}
+.aboutsection{
+    display: flex;
+     gap: 80px;
+
+}
+.aboutright{
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    
+  background-image: url("starsolid.gif"), url("startransparent.gif");
+  background-attachment: fixed, scroll;
+  background-repeat: no-repeat, repeat-y;
+}
+.para{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-weight: 200;
+}
+.aboutskills{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.aboutleft img{
+    width: 200%;
+    height: 100%;
+}
+.aboutskill{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    transition: 0.3s;
+}
+.aboutskill p{
+    min-width: 150px;
+    font-size: 24px;
+    font-weight: 500;
+    
+  
+}
+.aboutskill hr{
+    outline: none;
+    border: none;
+    width: 50%;
+    height: 8px;
+    border-radius: 50px;
+    background: linear-gradient(264deg,#DF8908 , #B415FF 106.28%);
+
+}
+.aboutachievements{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin-bottom: 80px;
+}
+.aboutachievement{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    transition: 0.5s;
+}
+.aboutachievement h1{
+     font-size: 60px;
+     font-weight: 700;
+     background: linear-gradient(264deg,#DF8908 , #B415FF 106.28%);
+     background-clip: text;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+    }
+    .aboutachievement p{
+        font-size: 23px;
+     font-weight: 500;
+    }
+    .aboutskill :hover{
+        transform: scale(1.25);
+        transition: 0.3s;
+    }
+    .aboutachievement :hover{
+        transform: scale(1.12);
+        transition: 0.3s;
+    }
+    .testi {
+        font-weight: bold;
+      }
+      
+      .stroketest {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #777;
+      }
+      
+      .sayabout {
+        font-size: 2rem;
+        font-weight: bold;
+      }
+      

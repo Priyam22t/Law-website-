@@ -1,0 +1,96 @@
+/* c.css */
+
+/* Testimonials container */
+.testimonials {
+    display: flex;
+    gap: 1rem;
+    padding: 0 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Left testimonial content */
+  .leftt {
+    display: flex;
+    flex: 1 1;
+    gap: 2rem;
+    flex-direction: column;
+    text-transform: uppercase;
+    color: var(--orange);
+  }
+  
+  .leftt > :nth-child(1) {
+    color: var(--orange);
+    font-weight: bold;
+  }
+  
+  .leftt > :nth-child(2),
+  .leftt > :nth-child(3) {
+    font-weight: bold;
+    font-size: 3rem;
+  }
+  
+  .name {
+    color: brown;
+  }
+  
+  .leftt > :nth-child(4) {
+    text-transform: none;
+    text-align: justify;
+    letter-spacing: 2px;
+    line-height: 48px;
+  }
+  
+  /* Right testimonial content */
+  .rightt {
+    flex: 1;
+    position: relative;
+  }
+  
+  .rightt > img {
+    position: absolute;
+    width: 17rem;
+    height: 20rem;
+    object-fit: cover;
+    right: 8rem;
+    top: 2rem;
+  }
+  
+  .rightt > :nth-child(1) {
+    position: absolute;
+    width: 17rem;
+    height: 20rem;
+    border: 2px solid orange;
+    background-color: transparent;
+    right: 9rem;
+    top: 0.9rem;
+  }
+  
+  .rightt > :nth-child(2) {
+    position: absolute;
+    width: 17rem;
+    height: 19rem;
+    border: 2px solid orange;
+    background-color: transparent;
+    right: 7rem;
+    top: 4rem;
+  }
+  
+  .arrows {
+    display: flex;
+    position: absolute;
+    gap: 1rem;
+    bottom: 1rem;
+    left: 3rem;
+   
+  }
+  
+  .arrows > img {
+    width: 1.5rem;
+    height: 65px;
+    width: 65px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+  .arrows > img:hover {
+    transform: scale(1.2);
+  }

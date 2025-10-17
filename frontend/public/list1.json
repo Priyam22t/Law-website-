@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "nam":"SAUL GOODMAN",
+        "title":"Saul Good Man, the name alone speaks volumes in the legal underworld. With a sharp wit and a knack for finding loopholes in even the tightest legal bindings, Saul is the go-to guy when you're in hot water. Specializing in criminal defense, he's the maestro of turning seemingly hopeless cases into triumphs in the courtroom.",
+        "cateogory":"Criminal Lawyer",
+        "image":"https://media1.s-nbcnews.com/i/streams/2013/September/130911/8C8952203-130911-ent-saulgoodman-hmed.jpg"
+    },
+    {
+        "id":2,
+        "nam":"Matt Murdock",
+        "cateogory":"Business Lawyer",
+        "title":"Meet Matt Murdock, a business lawyer with a twist. Donning his tailored suits by day and his iconic crimson mask by night, Matt is a master of both the boardroom and the battlefield. Specializing in corporate law, he's the epitome of a legal eagle, swooping in to protect his clients' interests with unparalleled fervor ",
+        "image":"https://images.hindustantimes.com/rf/image_size_800x600/HT/p2/2016/04/28/Pictures/1_ce933bfa-0d2c-11e6-97fe-df0dbda1a49a.jpg"
+    },
+    {
+        "id":3,
+        "nam":"Harvey Specter ",
+        "cateogory":"Family Lawyer",
+        "title":"  Introducing Harvey Specter, the suave and sophisticated family lawyer who redefines what it means to represent matters of the heart. With his impeccable style and razor-sharp wit, Harvey is not your typical family attorney – he's a legal virtuoso who knows how to navigate the complexities of personal relationships with finesse.",
+        "image":"https://static1.srcdn.com/wordpress/wp-content/uploads/2019/06/suits-harvey-4.jpeg"
+    },
+    {
+        "id":4,
+        "nam":"  Rudy Giuliani ",
+        "cateogory":"Bankruptcy Lawyer",
+        "title":" Meet Rudy Giuliani, the seasoned bankruptcy lawyer with a knack for navigating financial turmoil. With a career marked by high-profile cases and unwavering determination, Rudy is the go-to attorney for individuals and corporations facing financial collapse.",
+        "image":"https://i.insider.com/64c69f83cf07780019674f53?width=700"
+    },
+    {
+        "id":5,
+        "nam":"Thurgood Marshall",
+        "cateogory":"Educational Lawyer ",
+        "title":" Introducing Thurgood Marshall, the trailblazing educational lawyer who's dedicated his life to fighting for equal access to education for all. With a legacy rooted in civil rights activism and a relentless commitment to justice, Thurgood is a beacon of hope for marginalized communities across the nation..",
+        "image":"https://cdn.britannica.com/38/166638-050-31000288/Thurgood-Marshall.jpg?w=400&h=300&c=crop"
+    },
+    {
+        "id":6,
+        "nam":" Johnnie Cochran ",
+        "cateogory":"Constitutional Lawyer",
+        "title":" Enter Johnnie Cochran, a legendary figure in the realm of constitutional law, renowned for his unparalleled expertise and unwavering commitment to justice. With a career marked by groundbreaking cases and landmark victories, Johnnie is the epitome of a legal titan, fearlessly defending the rights enshrined in the Constitution.",
+        "image":"https://media.npr.org/assets/img/2016/02/02/acs_109_0105-2-_custom-f0c6168d0cfb07356459b49636e0d0522f7c5e3d.jpg"
+    },
+    {
+        "id":7,
+        "nam":" Richard Nixon ",
+        "cateogory":"Estate Planning Lawyer",
+        "title":" Introducing Richard Nixon, a name synonymous with controversy and complexity, now reimagined as an estate planning lawyer. Despite his tumultuous political career, Nixon has found a new calling in the realm of law, specializing in the intricate world of estate planning.",
+        "image":"https://cdn.britannica.com/35/172735-138-D2A8C54A/overview-Richard-M-Nixon.jpg?w=800&h=450&c=crop"
+    }
+]
